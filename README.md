@@ -29,19 +29,3 @@ Este é um jogo implementado em Java, incluindo uma interface gráfica de usuár
 4. **Reiniciar o Jogo:**
    - Após o término do jogo, clique em "Iniciar Jogo" para reiniciar.
 
-## Estrutura do Código
-
-- `JogoDavelha`: Lógica do jogo, incluindo verificação de vitória, empate e histórico de movimentos utilizando uma pilha.
-- `Posicao`: Representa uma posição no tabuleiro.
-- `JogoDaVelhaGUI`: Interface gráfica que utiliza JavaFX para interação com o usuário.
-
-
-## Para Executar o Projeto
-
-- Java Development Kit (JDK) instalado (versão 17)
-- Ter o JavaFX SDK instalado
-
-1. **Clonar o Repositório:**
-   ```bash
-   git clone https://github.com/Tallia-Sousa/AtividadeJogoDaVelhaUsoPilha
-
